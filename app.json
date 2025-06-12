@@ -1,8 +1,8 @@
 {
-  "name": "ALI-MD",
+  "name": "ASAD-MD",
   "description": "Javascript WhatsApp bot made by ali",
-  "logo": "https://files.catbox.moe/6ku0eo.jpg",
-  "keywords": ["ALI-MD"],
+  "logo": "https://files.catbox.moe/bbz4xm.jpg",
+  "keywords": ["ASAD-MD"],
   "success_url": "/",
 
     "stack": "container",
@@ -17,7 +17,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "𓆩ု᪳𝐀ɭīī 𝐌Ɗှ᪳𓆪"
+      "value": "WHYAFTAB"
     }, 
       
     "PREFIX": {
@@ -71,8 +71,8 @@
 
     "AUTO_STATUS_SEEN": {
       "description": "Make it true for automatic status seen.",
-      "required": true,
-      "value": "true"
+      "required": false,
+      "value": "false"
     }, 
     
      "MENTION_REPLY": {
@@ -90,14 +90,14 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "𓆩ု᪳𝐀ɭīī 𝐌Ɗှ᪳𓆪"
+      "value": "WHYAFTAB"
 
       }, 
     
     "ALIVE_IMG": {
       "description": "put here the bot Menu url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://files.catbox.moe/6ku0eo.jpg" 
+      "value": "https://files.catbox.moe/bbz4xm.jpg" 
       },
 
     "ANTI_LINK_WARN": {
