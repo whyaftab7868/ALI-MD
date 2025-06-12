@@ -1,4 +1,4 @@
-{
+ {
   "name": "ASAD-MD",
   "description": "Javascript WhatsApp bot made by ali",
   "logo": "https://files.catbox.moe/bbz4xm.jpg",
@@ -178,7 +178,7 @@
 
      "buildpacks": [
         {
-            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+            "url": "https://github.com/whyaftab7868/ALI-MD/blob/main/app.json"
         }
      ],
   "stack": "heroku-24"
