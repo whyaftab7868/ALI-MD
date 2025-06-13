@@ -33,7 +33,7 @@ WELCOME: process.env.WELCOME || "true",
 // true if want welcome msg in groups
 GOODBYE: process.env.GOODBYE || "true",
 // true if want goodbye msg in groups
-ADMIN_STATUS: process.env.ADMIN_STATUS || "false",
+ADMIN_STATUS: process.env.ADMIN_STATUS || "true",
 // make true to know who dismiss or promoted a member in group
 ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
 // maks true for always online 
@@ -67,7 +67,7 @@ AUTO_VOICE: process.env.AUTO_VOICE || "false",
 // make true for send automatic voices
 AUTO_STICKER: process.env.AUTO_STICKER || "false",
 // make true for automatic stickers 
-AUTO_REPLY: process.env.AUTO_REPLY || "false",
+AUTO_REPLY: process.env.AUTO_REPLY || "true",
 // make true or false automatic text reply 
 ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
 // maks true for always online 
